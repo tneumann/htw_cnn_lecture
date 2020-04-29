@@ -1,0 +1,12 @@
+name: dllv
+channels:
+        - pytorch
+        - conda-forge
+        - defaults
+dependencies:
+        - numpy
+        - pytorch
+        - torchvision
+        - cudatoolkit=10.1
+        - matplotlib
+        - jupyter
