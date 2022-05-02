@@ -1,3 +1,3 @@
-# Deep Learning @ HTW Dresden, course material 2021
+# Deep Learning @ HTW Dresden, course material 2022
 
 New material will appear here soon :)
